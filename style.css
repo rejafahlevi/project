@@ -4,26 +4,26 @@
 }
 
 .img-fluid {
-    height: 18%;
-    width: 18%;
+    height: 100%;
+    width: 25%;
 } 
 
 .Profile {
     background-color: #212529;
     color:white;
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 
 
 .Project {
     background-color: #F3F4F5;
-    padding-top: 5rem;
+    padding-top: 4rem;
 }
 
 .Contact {
     background-color: #212529;
     color:white;
-    padding-top: 5rem;
+    padding-top: 4rem;
     padding-bottom: 5rem;
 }
 
@@ -36,3 +36,4 @@ footer {
 .list-group {
     background-color: #212529;
 }
+
