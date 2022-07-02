@@ -5,6 +5,13 @@
         height: 100%;
     }
   }
+  @media only screen and (min-width: 720px) {
+    /* For responsive mobile phones: */
+    .img-fluid {
+        width: 100%;
+        height: 100%;g
+    }
+  }
 
 .home {
     background-color: #F3F4F5;
