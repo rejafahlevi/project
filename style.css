@@ -14,23 +14,43 @@
     padding-top: 6rem;
 }
 
+.Education {
+    background-color: #F3F4F5;
+    padding-top: 5.7rem;
+}
+
+.Experience {
+    background-color: #212529;
+    color:white;
+    padding-top: 6rem;
+}
+
+.Licences {
+    background-color: #F3F4F5;
+    padding-top: 5rem;
+}
 
 .Project {
-    background-color: #F3F4F5;
-    padding-top: 4rem;
+    background-color: #212529;
+    color:white;
+    padding-top: 5rem;
+}
+
+.card {
+    color:#212529;
 }
 
 .Contact {
-    background-color: #212529;
-    color:white;
-    padding-top: 4rem;
+    background-color: #F3F4F5;
+    color:#212529;
+    padding-top: 2.7rem;
     padding-bottom: 5rem;
 }
 
 
 footer {
-    background-color: #212529;
-    color: white;
+    background-color: #F3F4F5;
+    color: #212529;
 }
 
 .list-group {
