@@ -3,8 +3,13 @@
     padding-top: 7rem;
 }
 
+.img-fluid {
+    height: 50%;
+    width: 50%;
+}
+
 .img-thumbnail {
-    height: 80%;
+    height: 100%;
     width: 22%;
 } 
 
@@ -56,4 +61,6 @@ footer {
 .list-group {
     background-color: #212529;
 }
+
+
 
