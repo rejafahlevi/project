@@ -1,16 +1,16 @@
 .home {
     background-color: #F3F4F5;
-    padding-top: 7rem;
+    padding-top: 5rem;
 }
 
 .img-fluid {
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
 }
 
 .img-thumbnail {
-    height: 100%;
-    width: 22%;
+    height: 80%;
+    width: 25%;
 } 
 
 .Profile {
